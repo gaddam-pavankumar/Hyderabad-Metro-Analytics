@@ -1,0 +1,10 @@
+Date,Station,Line,Passengers,Month,Day,Weekend
+2025-01-01,Ameerpet,Red,12500,1,Wednesday,False
+2025-01-01,Miyapur,Red,9800,1,Wednesday,False
+2025-01-01,Raidurg,Blue,11000,1,Wednesday,False
+2025-01-02,Ameerpet,Red,13000,1,Thursday,False
+2025-01-02,Miyapur,Red,10200,1,Thursday,False
+2025-01-02,Raidurg,Blue,11200,1,Thursday,False
+2025-01-03,Ameerpet,Red,12800,1,Friday,False
+2025-01-03,Miyapur,Red,10100,1,Friday,False
+2025-01-03,Raidurg,Blue,11500,1,Friday,False
